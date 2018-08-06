@@ -1,0 +1,7 @@
+c:\users\owner\source\repos\ConsoleApp6\ConsoleApp6\bin\Debug\ConsoleApp6.exe.config
+c:\users\owner\source\repos\ConsoleApp6\ConsoleApp6\bin\Debug\ConsoleApp6.exe
+c:\users\owner\source\repos\ConsoleApp6\ConsoleApp6\bin\Debug\ConsoleApp6.pdb
+c:\users\owner\source\repos\ConsoleApp6\ConsoleApp6\obj\Debug\ConsoleApp6.csprojAssemblyReference.cache
+c:\users\owner\source\repos\ConsoleApp6\ConsoleApp6\obj\Debug\ConsoleApp6.csproj.CoreCompileInputs.cache
+c:\users\owner\source\repos\ConsoleApp6\ConsoleApp6\obj\Debug\ConsoleApp6.exe
+c:\users\owner\source\repos\ConsoleApp6\ConsoleApp6\obj\Debug\ConsoleApp6.pdb
